@@ -26,8 +26,6 @@ void ACoinMan_GameMode::Tick(float DeltaTime) {
 
 	Super::Tick(DeltaTime);
 
-
-
 }
 
 void ACoinMan_GameMode::SpawnCollectables()
@@ -57,7 +55,6 @@ bool ACoinMan_GameMode::Spawn(TSubclassOf<AActor> Item) {
 	if (TraceForSpawnLocation(StartLocation, SpawnLocation))
 	{
 		FRotator SpawnRotation = FRotator(0.0f, 0.0f, 0.0f);
-		int32 ItemType = FMath::RandRange(1, Spawn_Charger_Freq + Spawn_Coin_Freq);
 
 		SpawnLocation.Z += 20;
 
