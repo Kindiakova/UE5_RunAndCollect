@@ -1,0 +1,12 @@
+.vs/
+Build/
+Backup/
+Binaries/
+Windows/
+DerivedDataCache/
+Intermediate/
+Windows/
+Saved/
+*.log
+*.mp4
+*.htm
