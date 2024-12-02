@@ -87,4 +87,4 @@ You can customize some gameplay aspects by modifying blueprint parameters:
 
 ## Assets
 
-- **[Full Map](https://www.fab.com/listings/19067e98-5f3f-4cb0-aecb-08f985f87b6c)** — The complete city map for the game.
+- **[Full Map](https://www.fab.com/listings/19067e98-5f3f-4cb0-aecb-08f985f87b6c)** — The full city map for the game.
